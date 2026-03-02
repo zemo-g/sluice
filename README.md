@@ -201,6 +201,8 @@ Cloud backend (optional): Anthropic Claude via SDK or CLI fallback.
 
 Built from 30 days of running dual MLX models 24/7 on a Mac Mini M4 Pro (24GB). The priority queue started as 100 lines to stop kernel panics. It grew into a router because every service needed the same thing: "query a model, get text back, don't crash."
 
+More about the project and the infrastructure it came from: [ledatic.org](https://ledatic.org)
+
 ## License
 
 MIT
