@@ -1,5 +1,10 @@
 # sluice
 
+[![tests](https://github.com/zemo-g/sluice/actions/workflows/test.yml/badge.svg)](https://github.com/zemo-g/sluice/actions)
+[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://python.org)
+[![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![Zero Dependencies](https://img.shields.io/badge/dependencies-0-brightgreen.svg)](#)
+
 Priority-queue LLM router for Apple Silicon. Prevents GPU OOM by serializing local inference.
 
 ## The Problem
